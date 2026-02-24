@@ -17,3 +17,5 @@ dynamic product cards, and a clean navigation system inspired by contemporary we
 * **HTML5:** Semantic structure.
 * **CSS3:** Custom layouts using Flexbox and CSS Grid.
 * **JavaScript (ES6):** Dynamic content rendering and UI interactions.
+
+https://github.com/amna-developer/Smoothie-Website/settings/pages
